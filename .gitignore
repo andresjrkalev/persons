@@ -1,0 +1,6 @@
+.idea
+backend/.gradle
+backend/.idea
+backend/build
+frontend/node_modules
+frontend/package-lock.json

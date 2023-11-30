@@ -1,0 +1,25 @@
+body {
+  padding: 20px
+}
+
+input {
+  margin-inline: 10px;
+}
+
+.form,
+.dropdown {
+  border: 1px solid;
+}
+
+.dropdown {
+  box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+
+.form,
+p {
+  padding: 5px;
+}
+
+p:hover {
+  background: #E8E8E8
+}
